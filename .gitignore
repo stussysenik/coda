@@ -1,0 +1,11 @@
+# Binary
+coda
+
+# Worktrees
+.worktrees/
+
+# Runtime
+*.sock
+
+# macOS
+.DS_Store
