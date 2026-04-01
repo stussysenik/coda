@@ -1,5 +1,8 @@
 # coda
 
+![Demo](demo.gif)
+
+
 **Close the loop. Claude Code stops when your system is healthy, not when it feels done.**
 
 Coda is an autonomous dev orchestrator for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). It turns Claude from an open-loop assistant — one that stops when *it thinks* it's done — into a closed-loop system that stops when your **server compiles, tests pass, and the gate clears**.
